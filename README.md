@@ -1,9 +1,3 @@
-## Frappé V6
+# License notice
 
-This is the repository which houses the entire codebase (server & client) of the game [Frappé V6](https://www.roblox.com/games/323925323/Frapp-V5).
-
-### Maintenance
-
-This repository (as of writing) is maintained by the following developers:
-
-- #### 1. [bubshurb](https://github.com/bubshurb) - Lead Frontend & Backend Programmer
+None of the contents of this repository can be shared, tempered with or sold in any way or form without explicit permission granted from the maintainer [babypatrick100](https://github.com/babypatrick100).
