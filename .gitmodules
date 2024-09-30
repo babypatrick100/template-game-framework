@@ -1,0 +1,4 @@
+[submodule "lune"]
+	path = lune
+	url = https://github.com/babypatrick100/lune-scripts-for-remote-game-dev
+	ignore = dirty

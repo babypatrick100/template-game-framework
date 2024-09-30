@@ -1,0 +1,57 @@
+{
+  "name": "baseGame-v1",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "earlyStartup": {
+        "$path": "src/client/startup/early"
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "core": {
+        "$className": "Folder",
+        "client": {
+          "$path": "src/client/core"
+        },
+        "shared": {
+          "$path": "src/shared"
+        },
+        "sharedPackages": {
+          "$path": "Packages"
+        }
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "earlyStartup": {
+        "$path": "src/server/startup/early"
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "core": {
+        "$className": "Folder",
+        "server": {
+          "$path": "src/server/core"
+        },
+        "serverPackages": {
+          "$path": "ServerPackages"
+        }
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "lateStartup": {
+          "$path": "src/client/startup/late"
+        }
+      }
+    }
+  }
+}

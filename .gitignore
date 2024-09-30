@@ -1,0 +1,14 @@
+# Lune related assets
+baseGameV1.rbxl
+baseGameV1.rbxl.lock
+project
+
+## Wally dependency folders
+ServerPackages
+Packages
+
+## Other
+sourcemap.json
+.vscode
+.moonwave
+roblox.toml

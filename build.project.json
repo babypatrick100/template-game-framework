@@ -1,0 +1,7 @@
+{
+  "name": "baseGame-v1",
+  "tree": {
+    "$className": "DataModel",
+    "$path": "project"
+  }
+}
